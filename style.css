@@ -14,12 +14,12 @@ body {
 }
 
 #nav {
-  height: 4vw;
+  height: 4vmax;
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 2vw;
+  padding: 0 2vmax;
 }
 #nav1 {
   height: 100%;
@@ -39,15 +39,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2vw;
-  margin-right: 1vw;
+  gap: 2vmax;
+  margin-right: 1vmax;
 }
 #nav2 h4 {
-  font-size: 1.1vw;
+  font-size: 1.1vmax;
   font-weight: 600;
 }
 #nav2 h4 span {
-  padding-left: 0.2vw;
+  padding-left: 0.2vmax;
   color: rgb(117, 117, 192);
 }
 #nav-2 {
@@ -60,7 +60,7 @@ body {
   padding-left: 3%;
 }
 #nav-2 h4 {
-  font-size: 1.1vw;
+  font-size: 1.1vmax;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -84,12 +84,12 @@ body {
 .elem h1 {
   margin-left: 12%;
 
-  font-size: 6vw;
+  font-size: 6vmax;
   font-weight: 300;
 }
 #upper::-webkit-scrollbar {
   background-color: transparent;
-  height: 0.8vw;
+  height: 0.8vmax;
 }
 
 #upper::-webkit-scrollbar-thumb {
